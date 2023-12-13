@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BackEndNeatStreak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd18e355aa727e5c77a00bc8b2d6673a5c7b4345")]
 [assembly: System.Reflection.AssemblyProductAttribute("BackEndNeatStreak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BackEndNeatStreak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
